@@ -8,8 +8,8 @@
 > 
 > apt-get install postgresql-client  
 > 
-> psql --host=<PostgreSQLServerName>.postgres.database.azure.com --port=5432 --username=<user>@<PostgreSQLServerName> --dbname=<database>
-  
+> psql --host=PostgreSQLServerName.postgres.database.azure.com --port=5432 --username=user@PostgreSQLServerName --dbname=database
+
 ## 2. Put your database password 
 
 ## 3. Query your table:
