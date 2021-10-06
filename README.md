@@ -12,7 +12,7 @@
 
 ## 2. Put your database password 
 
-## 3. Query your table:
+## 3. Query your table
 > select * from TableName;
 
 ## Result:
