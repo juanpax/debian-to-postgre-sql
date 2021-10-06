@@ -1,4 +1,4 @@
-# Test from Debian to connect with PostgreSQL
+# Test Debian connecting to PostgreSQL
 
 ## 1. Install dependencies 
 
